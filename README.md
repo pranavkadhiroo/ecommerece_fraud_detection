@@ -57,7 +57,6 @@ This project analyzes user behavior data from an e-commerce platform to detect f
 
 1. Clone this repository.
 2. Download the dataset from Kaggle and place it in the `data/` folder.
-3. Run the `preprocessing_and_model.ipynb` notebook step by step.
-4. Optionally, extract processed data to SQL using `chunk_upload.py`.
+3. Run the `fraud_detection.ipynb` notebook step by step.
 
 
